@@ -11,8 +11,6 @@ self.addEventListener('install', event => {
       './css/site.css',
       './data/latest.json',
       './data/data-1.json',
-      './article.html',
-      './index.html'
     ]))
   );
 });
